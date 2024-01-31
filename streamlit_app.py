@@ -7,7 +7,7 @@ import streamlit as st
 # Welcome to Streamlit Nicolas PortPage!
 
 Is only example, usage of Python3 with Streamlit  :heart:.
-More content soon... 
+More content soon... [To return to CV page](https://mandriic.github.io/examples.html)
 """
 
 num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
